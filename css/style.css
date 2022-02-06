@@ -52,7 +52,7 @@ button, select {
   display: flex;
 }
 .gnb ul> li{
-  color: #444;
+  color: red;
   font-size: 14px;
   line-height: 40px;
   
